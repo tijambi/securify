@@ -64,11 +64,16 @@ class TruffleProject(project.Project):
                     node_modules_dir = utils.find_node_modules_dir(
                         self.project_root)
                     if node_modules_dir is None:
-                        print("[!] Error: Couldn't find a source for "
-                              f"{contract_name}")
+                        logging.error("Couldn't find a source for "
+                                      f"{contract_name}")
                         sys.exit(1)
                     contract_path = os.path.join(node_modules_dir,
                                                  contract_path)
+
+                    if not pathlib.Path(contract_path).is_file():
+                        logging.error("Couldn't find a source for "
+                                      f"{contract_name}")
+                        sys.exit(1)
 
                 data["bin"] = data.pop("bytecode")
                 data["bin-runtime"] = data.pop("deployedBytecode")
