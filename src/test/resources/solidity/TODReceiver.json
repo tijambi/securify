@@ -17,11 +17,11 @@
       },
       "LockedEther": {
         "conflicts": [],
-        "safe": [
-          0
-        ],
+        "safe": [],
         "violations": [],
-        "warnings": []
+        "warnings": [
+          0
+        ]
       },
       "MissingInputValidation": {
         "conflicts": [],

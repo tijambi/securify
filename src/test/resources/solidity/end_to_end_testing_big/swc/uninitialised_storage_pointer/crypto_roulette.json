@@ -12,7 +12,7 @@
         "safe": [],
         "violations": [],
         "warnings": [
-          45
+          46
         ]
       },
       "LockedEther": {
@@ -26,22 +26,23 @@
       "MissingInputValidation": {
         "conflicts": [],
         "safe": [
+          12,
           15,
           16,
           17,
           23,
           30,
-          52
+          53
         ],
         "violations": [],
         "warnings": [
-          35
+          36
         ]
       },
       "RepeatedCall": {
         "conflicts": [],
         "safe": [
-          45
+          46
         ],
         "violations": [],
         "warnings": []
@@ -50,14 +51,14 @@
         "conflicts": [],
         "safe": [],
         "violations": [
-          45
+          46
         ],
         "warnings": []
       },
       "TODReceiver": {
         "conflicts": [],
         "safe": [
-          45
+          46
         ],
         "violations": [],
         "warnings": []
@@ -65,7 +66,7 @@
       "UnhandledException": {
         "conflicts": [],
         "safe": [
-          45
+          46
         ],
         "violations": [],
         "warnings": []
@@ -75,7 +76,7 @@
         "safe": [],
         "violations": [],
         "warnings": [
-          45
+          46
         ]
       },
       "UnrestrictedWrite": {
@@ -84,10 +85,8 @@
         "violations": [
           1,
           32,
-          39,
-          40,
-          41,
-          49
+          42,
+          50
         ],
         "warnings": []
       }

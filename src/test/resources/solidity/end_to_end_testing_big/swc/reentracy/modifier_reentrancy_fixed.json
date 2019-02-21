@@ -125,17 +125,13 @@
       },
       "UnhandledException": {
         "conflicts": [],
-        "safe": [
-          13
-        ],
+        "safe": [],
         "violations": [],
         "warnings": []
       },
       "UnrestrictedEtherFlow": {
         "conflicts": [],
-        "safe": [
-          13
-        ],
+        "safe": [],
         "violations": [],
         "warnings": []
       },

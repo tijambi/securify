@@ -4,7 +4,7 @@
       "DAO": {
         "conflicts": [],
         "safe": [
-          841
+          845
         ],
         "violations": [],
         "warnings": []
@@ -12,10 +12,10 @@
       "DAOConstantGas": {
         "conflicts": [],
         "safe": [
-          228,
-          744,
-          832,
-          846
+          229,
+          747,
+          836,
+          850
         ],
         "violations": [],
         "warnings": []
@@ -23,7 +23,7 @@
       "LockedEther": {
         "conflicts": [],
         "safe": [
-          364
+          365
         ],
         "violations": [],
         "warnings": []
@@ -37,105 +37,92 @@
       "RepeatedCall": {
         "conflicts": [],
         "safe": [
-          218,
-          228,
-          251,
-          308,
-          490,
-          492,
-          573,
-          577,
-          779,
-          781,
-          832,
-          846
+          219,
+          229,
+          252,
+          309,
+          491,
+          493,
+          574,
+          578,
+          747,
+          749,
+          782,
+          836,
+          850,
+          879
         ],
         "violations": [
-          260,
-          642,
-          744,
-          746,
-          841,
-          848,
-          875
+          261,
+          643,
+          845,
+          852
         ],
-        "warnings": []
+        "warnings": [
+          784
+        ]
       },
       "TODAmount": {
         "conflicts": [],
         "safe": [
-          228,
-          744,
-          832,
-          846
+          229,
+          747,
+          836,
+          850
         ],
         "violations": [],
         "warnings": [
-          841
+          845
         ]
       },
       "TODReceiver": {
         "conflicts": [],
         "safe": [
-          228,
-          832,
-          846
+          229,
+          836,
+          850
         ],
         "violations": [],
         "warnings": [
-          744,
-          841
+          747,
+          845
         ]
       },
       "UnhandledException": {
         "conflicts": [],
         "safe": [
-          218,
-          228,
-          251,
-          260,
-          308,
-          490,
-          492,
-          573,
-          577,
-          642,
-          744,
-          746,
-          779,
-          781,
-          832,
-          841,
-          846,
-          848,
-          875
+          219,
+          229,
+          491,
+          493,
+          747,
+          749,
+          782,
+          784,
+          836,
+          845,
+          850,
+          852
         ],
         "violations": [],
         "warnings": []
       },
       "UnrestrictedEtherFlow": {
         "conflicts": [
-          228,
-          744,
-          832,
-          846
+          229,
+          747,
+          836,
+          850
         ],
         "safe": [
-          218,
-          251,
-          260,
-          308,
-          490,
-          492,
-          573,
-          577,
-          642,
-          746,
-          779,
-          781,
-          841,
-          848,
-          875
+          219,
+          491,
+          493,
+          749,
+          782,
+          784,
+          845,
+          852
         ],
         "violations": [],
         "warnings": []
@@ -143,39 +130,39 @@
       "UnrestrictedWrite": {
         "conflicts": [
           2,
-          125,
-          136,
-          147,
+          126,
+          137,
           148,
-          158,
+          149,
           159,
-          164,
-          183,
+          160,
+          165,
           184,
-          189,
-          250,
+          185,
+          190,
           251,
-          450,
+          252,
           451,
-          454,
-          503,
-          508,
-          513,
-          525,
+          452,
+          455,
+          504,
+          509,
+          514,
           526,
-          536,
-          547
+          527,
+          537,
+          548
         ],
         "safe": [],
         "violations": [
           2,
-          168,
-          193,
-          364,
-          458,
-          540,
-          699,
-          707
+          169,
+          194,
+          365,
+          459,
+          541,
+          702,
+          710
         ],
         "warnings": []
       }
@@ -203,7 +190,7 @@
         "conflicts": [],
         "safe": [],
         "violations": [
-          79
+          80
         ],
         "warnings": []
       },
@@ -246,22 +233,22 @@
       "UnrestrictedWrite": {
         "conflicts": [
           2,
-          125,
-          136,
-          147,
+          126,
+          137,
           148,
-          158,
+          149,
           159,
-          164,
-          183,
+          160,
+          165,
           184,
-          189
+          185,
+          190
         ],
         "safe": [],
         "violations": [
-          79,
-          168,
-          193
+          80,
+          169,
+          194
         ],
         "warnings": []
       }
@@ -288,7 +275,7 @@
       "LockedEther": {
         "conflicts": [],
         "safe": [
-          239
+          240
         ],
         "violations": [],
         "warnings": []
@@ -358,7 +345,7 @@
       "LockedEther": {
         "conflicts": [],
         "safe": [
-          299
+          300
         ],
         "violations": [],
         "warnings": []
@@ -367,14 +354,14 @@
         "conflicts": [],
         "safe": [],
         "violations": [
-          304
+          305
         ],
         "warnings": []
       },
       "RepeatedCall": {
         "conflicts": [],
         "safe": [
-          308
+          309
         ],
         "violations": [],
         "warnings": []
@@ -393,17 +380,13 @@
       },
       "UnhandledException": {
         "conflicts": [],
-        "safe": [
-          308
-        ],
+        "safe": [],
         "violations": [],
         "warnings": []
       },
       "UnrestrictedEtherFlow": {
         "conflicts": [],
-        "safe": [
-          308
-        ],
+        "safe": [],
         "violations": [],
         "warnings": []
       },
@@ -430,7 +413,7 @@
       "DAOConstantGas": {
         "conflicts": [],
         "safe": [
-          228
+          229
         ],
         "violations": [],
         "warnings": []
@@ -438,7 +421,7 @@
       "LockedEther": {
         "conflicts": [],
         "safe": [
-          209
+          210
         ],
         "violations": [],
         "warnings": []
@@ -452,8 +435,8 @@
       "RepeatedCall": {
         "conflicts": [],
         "safe": [
-          218,
-          228
+          219,
+          229
         ],
         "violations": [],
         "warnings": []
@@ -461,7 +444,7 @@
       "TODAmount": {
         "conflicts": [],
         "safe": [
-          228
+          229
         ],
         "violations": [],
         "warnings": []
@@ -469,7 +452,7 @@
       "TODReceiver": {
         "conflicts": [],
         "safe": [
-          228
+          229
         ],
         "violations": [],
         "warnings": []
@@ -477,18 +460,18 @@
       "UnhandledException": {
         "conflicts": [],
         "safe": [
-          218,
-          228
+          219,
+          229
         ],
         "violations": [],
         "warnings": []
       },
       "UnrestrictedEtherFlow": {
         "conflicts": [
-          228
+          229
         ],
         "safe": [
-          218
+          219
         ],
         "violations": [],
         "warnings": []
@@ -496,22 +479,22 @@
       "UnrestrictedWrite": {
         "conflicts": [
           2,
-          125,
-          136,
-          147,
+          126,
+          137,
           148,
-          158,
+          149,
           159,
-          164,
-          183,
+          160,
+          165,
           184,
-          189
+          185,
+          190
         ],
         "safe": [],
         "violations": [
-          168,
-          193,
-          209
+          169,
+          194,
+          210
         ],
         "warnings": []
       }

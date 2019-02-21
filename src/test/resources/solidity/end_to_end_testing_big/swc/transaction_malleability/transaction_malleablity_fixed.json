@@ -53,9 +53,7 @@
       },
       "UnrestrictedEtherFlow": {
         "conflicts": [],
-        "safe": [
-          84
-        ],
+        "safe": [],
         "violations": [],
         "warnings": []
       },

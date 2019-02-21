@@ -14,11 +14,11 @@
         "warnings": []
       },
       "LockedEther": {
-        "conflicts": [
+        "conflicts": [],
+        "safe": [],
+        "violations": [
           1
         ],
-        "safe": [],
-        "violations": [],
         "warnings": []
       },
       "MissingInputValidation": {

@@ -10,7 +10,7 @@
       "DAOConstantGas": {
         "conflicts": [],
         "safe": [
-          10
+          12
         ],
         "violations": [],
         "warnings": []
@@ -27,7 +27,7 @@
         "conflicts": [],
         "safe": [
           5,
-          8
+          10
         ],
         "violations": [],
         "warnings": []
@@ -36,7 +36,7 @@
         "conflicts": [],
         "safe": [
           6,
-          10
+          12
         ],
         "violations": [],
         "warnings": []
@@ -45,14 +45,14 @@
         "conflicts": [],
         "safe": [],
         "violations": [
-          10
+          12
         ],
         "warnings": []
       },
       "TODReceiver": {
         "conflicts": [],
         "safe": [
-          10
+          12
         ],
         "violations": [],
         "warnings": []
@@ -60,7 +60,7 @@
       "UnhandledException": {
         "conflicts": [],
         "safe": [
-          10
+          12
         ],
         "violations": [],
         "warnings": []
@@ -68,7 +68,7 @@
       "UnrestrictedEtherFlow": {
         "conflicts": [],
         "safe": [
-          10
+          12
         ],
         "violations": [],
         "warnings": []

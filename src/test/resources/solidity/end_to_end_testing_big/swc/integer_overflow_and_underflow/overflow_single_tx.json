@@ -23,17 +23,8 @@
       },
       "MissingInputValidation": {
         "conflicts": [],
-        "safe": [
-          11,
-          29,
-          34,
-          39
-        ],
-        "violations": [
-          14,
-          19,
-          24
-        ],
+        "safe": [],
+        "violations": [],
         "warnings": []
       },
       "RepeatedCall": {

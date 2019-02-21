@@ -64,12 +64,12 @@
           106,
           118
         ],
-        "violations": [],
-        "warnings": [
+        "violations": [
           98,
           116,
           117
-        ]
+        ],
+        "warnings": []
       }
     },
     "securifyErrors": {
